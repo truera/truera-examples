@@ -1,4 +1,4 @@
-[![Get Started with TruEra](https://truera.com/wp-content/uploads/2023/04/TruEra-Logo-Master-wBG.png)](https://truera.com)
+[![Get Started with TruEra](https://truera.com/wp-content/uploads/2023/04/TruEra-Logo-Master-Transparent.png)](https://truera.com)
 
 # Getting Started with TruEra
 
