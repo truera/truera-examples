@@ -1,5 +1,15 @@
-# TruEra Examples
-This repository contains examples for TruEra users to get started!
+[![Get Started with TruEra](https://truera.com/wp-content/uploads/2023/04/TruEra-Logo-Master-wBG.png)](https://truera.com)
+
+# Getting Started with TruEra
+
+We're glad you're here. It means you're ready to leverage TruEra's AI Quality Platform to analyze and improve your AI/ML modeling projects.
+
+In this repository, you'll find sample projects of integrating machine learning models with TruEra to help you get the most out of the TruEra Python SDK. 
+
+## Why TruEra?
+As you build and deploy ML models, TruEra plugs into your ML stack to let you test, debug and monitor your projects to ensure each model is doing what it's supposed to be doing — and, if not, why not? From feature development that helps you refine your data to efficiently training and evaluating your models to validating a final model for production, TruEra has you covered.
+
+## Library of Examples to Get Started
 
 1. Quickstart: Add your first projects
     * sdk-localflow-quickstart:  do this first! Learn how to add your first project   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_a7wZmFvHG8hIUOueFcgQuVIYXIpTNL8#scrollTo=ytlqujqhY9Qq)  
