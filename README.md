@@ -13,18 +13,13 @@ To learn how to create and ingest your first project in TruEra, use the SDK Quic
 
 ## Library of Examples to Get Started
 
-1. SDK Quickstart: Add your first projects
-    * sdk-localflow-quickstart:  do this first! Learn how to add your first project   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_a7wZmFvHG8hIUOueFcgQuVIYXIpTNL8#scrollTo=ytlqujqhY9Qq)  
-2. Starter examples: Use these to explore AI Quality and understand how to test for it. Improve your models' performance, stability and fairness.
-    * starter-performance: Diagnose and debug overfitting for a price prediction model
-         * Performance part 1:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gn8HfAD9G6L6XGhegAHjuBDucZbZH74W)
-         * Performance part 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16DexGCY1i4A5fLJZXC7xHPpqCSrQhVab)
-    * starter-drift: Diagnose and debug model instability for a price prediction model.
-         * Drift part 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15an365tkQZt2g_12O2VeWMSf3mVevnM7)
-         * Drift part 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SIshdf_nE2dCWPdGNfUJ3UUuWgbocANn)
-    * starter-fairness: Assess and improve the fairness of a credit model.
-         * Fairness part 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AZAlCVjX_zFijKndMK2VRwmbDv5Uh_Jo)
-         * Fairness part 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wSCmWMeWlFPdLSYP4RnSvhsEh9lONHLQ)
-3. Integrations & Extensions
-    * TruSHAP-example: Learn how to use TruSHAP interact with TruEra using the SHAP Interface   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16UtAz_pdEbaBHsBK7j-iWIWcJTiUZK3F)
-    * BigQuery: Coming soon!
+| Example             | Link | Input Type  | Output Type | AI Quality Concept | Frameworks |
+| ------------------- | ----------- | ----------- | -------------- | --------------- | ---------- |
+| SDK Quickstart | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_a7wZmFvHG8hIUOueFcgQuVIYXIpTNL8#scrollTo=ytlqujqhY9Qq) | Tabular | Regression | Explainability | sklearn |
+| Performance Starter Example 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gn8HfAD9G6L6XGhegAHjuBDucZbZH74W) | Tabular | Regression | Testing, Performance, Explainability | xgboost |
+| Performance Starter Example 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16DexGCY1i4A5fLJZXC7xHPpqCSrQhVab) | Tabular | Regression | Debugging, Performance, Explainability | xgboost |
+| Drift Starter Example 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15an365tkQZt2g_12O2VeWMSf3mVevnM7) | Tabular | Regression | Testing, Drift, Explainability | xgboost |
+| Drift Starter Example 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SIshdf_nE2dCWPdGNfUJ3UUuWgbocANn)| Tabular | Regression | Debugging, Drift, Explainability | xgboost |
+| Fairness Starter Example 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AZAlCVjX_zFijKndMK2VRwmbDv5Uh_Jo) | Tabular | Classification | Testing, Fairness, Explainability | xgboost |
+| Fairness Starter Example 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wSCmWMeWlFPdLSYP4RnSvhsEh9lONHLQ) | Tabular | Classification | Debugging, Fairness, Explainability | xgboost |
+| TruSHAP Example | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16UtAz_pdEbaBHsBK7j-iWIWcJTiUZK3F) | Tabular | Classification | Integrations, Explainability | SHAP, xgboost, decision trees |
