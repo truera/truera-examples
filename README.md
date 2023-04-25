@@ -2,9 +2,7 @@
 
 # Getting Started with TruEra
 
-We're glad you're here. It means you're ready to leverage TruEra's AI Quality Platform to analyze and improve your AI/ML modeling projects.
-
-In this repository, you'll find sample projects of integrating machine learning models with TruEra to help you get the most out of the TruEra Python SDK. 
+We're glad you're here. It means you're ready to leverage TruEra's AI Quality Platform to analyze and improve your AI/ML modeling projects. In this repository, you'll find sample projects of integrating machine learning models with TruEra to help you get the most out of the TruEra Python SDK. 
 
 ## Why TruEra?
 As you build and deploy ML models, TruEra plugs into your ML stack to let you test, debug and monitor your projects to ensure each model is doing what it's supposed to be doing — and, if not, why not? From feature development that helps you refine your data to efficiently training and evaluating your models to validating a final model for production, TruEra has you covered.
