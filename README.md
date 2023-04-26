@@ -23,4 +23,5 @@ To learn how to create and ingest your first project in TruEra, use the SDK Quic
 | Starter Examples | Fairness Starter Example 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AZAlCVjX_zFijKndMK2VRwmbDv5Uh_Jo) | Tabular | Classification | Testing, Fairness, Explainability | xgboost |
 | Starter Examples | Fairness Starter Example 2 |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wSCmWMeWlFPdLSYP4RnSvhsEh9lONHLQ) | Tabular | Classification | Debugging, Fairness, Explainability | xgboost |
 | Integrations & Extensions | TruSHAP Example | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16UtAz_pdEbaBHsBK7j-iWIWcJTiUZK3F) | Tabular | Classification | Explainability | SHAP, xgboost, decision trees |
-| Integrations & Extensions | BigQueryML Example | Coming Soon | ... | ... | ... | ... |
+| Integrations & Extensions | Sagemaker Integration | Coming Soon | ... | ... | ... | ... |
+| Integrations & Extensions | BigQueryML Integration | Coming Soon | ... | ... | ... | ... |
